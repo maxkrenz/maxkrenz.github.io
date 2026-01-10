@@ -5,111 +5,55 @@ name:
   display: Max-Friedrich Krenz
   given: Max-Friedrich
   family: Krenz
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-postnominals:
-  - PhD
-  - MIEEE
 status:
   icon: "☕️"
 role: Master's Student (Political Science)
-bio: |
-  bio: |
-  Master's student in Political Science with a focus on political behavior and quantitative methods.
-  Interests include causal inference, survey research, and attitudes toward immigration and democracy.
-  I work primarily with R and Stata and maintain reproducible research workflows.
-
+bio: M.A. Student in Political Science at the University of Potsdam. Research interests in quantitative methods and public policy.
+  I'm working as a tutor at the Humboldt University of Berlin.
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Humboldt University of Berlin
+    url: https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/max-friedrich-krenz
 
-links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
-
+  - Multivariate Statistics
+  - Programming for Data Analysis
+  - Public Policy
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: M.A. Political Science
+    institution: University of Potsdam
+    start: 2025-10-01
+    end: present
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Focus on quantitative methods, public policy analysis, and political behavior.
+  - degree: B.A. Politics, Administration & Organization
+    institution: University of Potsdam
+    start: 2022-10-01
+    end: 2025-09-30
+
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: tutor
+    organization: Humboldt University of Berlin
+    start: 2025-04-01
+    end: present
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Assisting in teaching quantitative methods and data analysis to undergraduate students.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Stata
         level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+      - label: R
         level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+
+  - name: Multivariate Statistics
 
 languages:
-  - name: English
+  - name: German
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
     label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
