@@ -24,7 +24,7 @@ education:
   - degree: M.A. Political Science
     institution: University of Potsdam
     start: 2025-10-01
-    end: present
+    end: ""
     summary: |
       Focus on quantitative methods, public policy analysis, and political behavior.
   - degree: B.A. Politics, Administration & Organization
@@ -37,7 +37,7 @@ experience:
   - role: tutor
     organization: Humboldt University of Berlin
     start: 2025-04-01
-    end: present
+    end: ""
     summary: |
       Assisting in teaching quantitative methods and data analysis to undergraduate students.
 
