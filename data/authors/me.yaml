@@ -2,23 +2,22 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Max-Friedrich Krenz
+  given: Max-Friedrich
+  family: Krenz
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
 postnominals:
   - PhD
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Master's Student (Political Science)
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  bio: |
+  Master's student in Political Science with a focus on political behavior and quantitative methods.
+  Interests include causal inference, survey research, and attitudes toward immigration and democracy.
+  I work primarily with R and Stata and maintain reproducible research workflows.
 
 affiliations:
   - name: Meta AI
