@@ -22,9 +22,6 @@ sections:
     content:
       title: Skills & Hobbies
       username: me
-  - block: resume-awards
-    content:
-      username: me
   - block: resume-languages
     content:
       title: Languages
