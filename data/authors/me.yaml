@@ -30,10 +30,11 @@ education:
 
   -  degree: Semester abroad (part of B.A.)
      institution: University of Antwerp
-     start: 2024-09
-     end: 2025-01
+     start: 2024-09-11
+     end: 2025-01-27
      summary: |
       Studied Political Science abroad during the fifth semester of my Bachelor’s degree.
+      
   - degree: B.A. Politics, Administration & Organization
     institution: University of Potsdam
     start: 2022-10-01
