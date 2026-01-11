@@ -59,6 +59,9 @@ links:
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/max-friedrich-krenz-4339613a1/?originalSubdomain=de"
     label: "LinkedIn"
+  - icon: "academicons/researchgate"
+    url: "https://www.researchgate.net/profile/Max-Friedrich-Krenz?ev=hdr_xprf"
+    label: "ResearchGate"
 ids:
   research_gate: "Max-Friedrich-Krenz"
   orcid: "0009-0004-3235-4388"
