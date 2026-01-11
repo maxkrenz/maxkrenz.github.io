@@ -1,68 +1,63 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Max-Friedrich Krenz
-  given: Max-Friedrich
-  family: Krenz
+  display: "Max-Friedrich Krenz"
+  given: "Max-Friedrich"
+  family: "Krenz"
 status:
-  icon: "☕️"
-role: Master's Student (Political Science)
-bio: |
-  M.A. Student in Political Science at the University of Potsdam. Research interests in quantitative methods and public policy.
-  I'm working as a tutor at the Humboldt University of Berlin.
+  icon: "👨‍💻"
+role: "Master's Student (Political Science)"
+bio: "M.A. Student in Political Science at the University of Potsdam. Research interests in quantitative methods and public policy.
+
+  I'm working as a tutor at the Humboldt University of Berlin.\n"
 affiliations:
-  - name: University of Potsdam & Humboldt University of Berlin 
-    url: https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/max-friedrich-krenz
-
-
+  - name: "University of Potsdam & Humboldt University of Berlin"
+    url: "https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/max-friedrich-krenz"
 interests:
-  - Multivariate Statistics
-  - Programming for Data Analysis
-  - Public Policy
+  - "Multivariate Statistics"
+  - "Programming for Data Analysis"
+  - "Public Policy"
 education:
-  - degree: M.A. Political Science
-    institution: University of Potsdam
-    start: 2025-10-01
+  - degree: "M.A. Political Science"
+    institution: "University of Potsdam"
+    start: "2025-10-01"
     end: ""
-    summary: |
-      Focus on quantitative methods, public policy analysis, and political behavior.
-
-  -  degree: Semester abroad (part of B.A.)
-     institution: University of Antwerp
-     start: 2024-09-11
-     end: 2025-01-27
-     summary: |
-      Studied Political Science abroad during the fifth semester of my Bachelor’s degree.
-      
-  - degree: B.A. Politics, Administration & Organization
-    institution: University of Potsdam
-    start: 2022-10-01
-    end: 2025-09-30
-
-
+    summary: "Focus on quantitative methods, public policy analysis, and political behavior.\n"
+  - degree: "Semester abroad (part of B.A.)"
+    institution: "University of Antwerp"
+    start: "2024-09-11"
+    end: "2025-01-27"
+    summary: "Studied Political Science abroad during the fifth semester of my Bachelor’s degree.\n"
+  - degree: "B.A. Politics, Administration & Organization"
+    institution: "University of Potsdam"
+    start: "2022-10-01"
+    end: "2025-09-30"
 experience:
-  - role: Student Assistant - Humboldt University of Berlin
-    organization: Humboldt University of Berlin
-    start: 2025-04-01
+  - role: "Student Assistant - Humboldt University of Berlin"
+    organization: "Humboldt University of Berlin"
+    start: "2025-04-01"
     end: ""
-    summary: |
-      Teach and support tutorials in quantitative methods and data analysis for social science students.
-
+    summary: "Teach and support tutorials in quantitative methods and data analysis for social science students.\n"
 skills:
-  - name: Technical Skills
+  - name: "Technical Skills"
     items:
-      - label: Stata
+      - label: "Stata"
         level: 4
-      - label: R
+      - label: "R"
         level: 4
-
-  - name: Multivariate Statistics
-
+  - name: "Multivariate Statistics"
 languages:
-  - name: German
-    label: Native
+  - name: "German"
+    label: "Native"
     level: ""
-  - name: English
-    label: Fluent
+  - name: "English"
+    label: "Fluent"
     level: ""
+weight: null
+links:
+  - icon: "brands/linkedin"
+    url: "www.linkedin.com/in/max-friedrich-krenz-4339613a1"
+    label: "LinkedIn"
+ids:
+  research_gate: "Max-Friedrich-Krenz"
