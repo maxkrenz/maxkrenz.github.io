@@ -62,5 +62,7 @@ skills:
 languages:
   - name: German
     label: Native
+    level: ""
   - name: English
     label: Fluent
+    level: ""
