@@ -10,9 +10,6 @@ sections:
     content:
       username: "me"
       text: ""
-      button:
-        text: "CV"
-        url: "uploads/CV.pdf"
       headings:
         about: ""
         education: ""
