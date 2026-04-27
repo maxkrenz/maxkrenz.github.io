@@ -8,16 +8,11 @@ name:
 status:
   icon: "👨‍💻"
 role: "Master's Student"
-bio: "M.A. Student in Political Science at the University of Potsdam. Research interests in quantitative methods and public policy.
-
-  I'm working as a tutor at the Humboldt University of Berlin.\n"
-affiliations:
-  - name: "University of Potsdam & Humboldt University of Berlin"
-    url: "https://www.sowi.hu-berlin.de/de/lehrbereiche/empisoz/a-z/max-friedrich-krenz"
+bio: "M.A. Student in Political Science at the University of Potsdam. Particulary interested in quantitative methods, programming for data analysis, and political science."
 interests:
   - "Multivariate Statistics"
   - "Programming for Data Analysis"
-  - "Public Policy"
+  - "Political Science"
 education:
   - degree: "M.A. Political Science"
     institution: "University of Potsdam"
@@ -37,8 +32,8 @@ experience:
   - role: "Student Assistant - Humboldt University of Berlin"
     organization: "Humboldt University of Berlin"
     start: "2025-04-01"
-    end: ""
-    summary: "Teach and support tutorials in quantitative methods and data analysis for social science students.\n"
+    end: "2025-03-31"
+    summary: "Teached and supported tutorials in quantitative methods and data analysis for social science students.\n"
 skills:
   - name: "Technical Skills"
     items:
@@ -59,6 +54,3 @@ links:
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/max-friedrich-krenz-4339613a1/?originalSubdomain=de"
     label: "LinkedIn"
-ids:
-  research_gate: "Max-Friedrich-Krenz"
-  orcid: "0009-0004-3235-4388"
